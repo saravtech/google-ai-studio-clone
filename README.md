@@ -2,7 +2,7 @@
 
 This is a frontend-only clone of **Google AI Studio**, built using **React + Vite + Tailwind CSS**.
 
-> 🔗 **Live Demo**: [https://heartfelt-heliotrope-5686ce.netlify.app](https://heartfelt-heliotrope-5686ce.netlify.app)
+> 🔗 **Live Demo**: [https://ai-studio-saravanarajan.netlify.app/](https://ai-studio-saravanarajan.netlify.app/)
 
 ---
 
