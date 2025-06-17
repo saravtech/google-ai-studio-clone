@@ -1,5 +1,7 @@
 # Google AI Studio – Frontend UI Clone
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/529c08ba-53e3-42de-83b3-23668c39fcc5/deploy-status)](https://app.netlify.com/projects/ai-studio-saravanarajan/deploys)
+
 This is a frontend-only clone of **Google AI Studio**, built using **React + Vite + Tailwind CSS**.
 
 > 🔗 **Live Demo**: [https://ai-studio-saravanarajan.netlify.app/](https://ai-studio-saravanarajan.netlify.app/)
@@ -25,6 +27,16 @@ This is a frontend-only clone of **Google AI Studio**, built using **React + Vit
 
 ---
 
+## 🖼️ Screenshots
+
+### 📍 Chat Page  
+![Chat Page](public/screenshots/chat-page.png)
+
+### 📍 Stream Page  
+![Stream Page](public/screenshots/stream-page.png)
+
+---
+
 ## 📂 Project Structure
 src/
 ├── components/ # Shared UI components
@@ -33,3 +45,15 @@ src/
 ├── pages/ # Route-based pages (Chat, Stream)
 ├── App.jsx # Route setup
 └── main.jsx # Entry point
+public/
+└── screenshots/ # Screenshots used in README
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
+
+npm run build
